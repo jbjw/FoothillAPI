@@ -1,4 +1,4 @@
-# FoothilAPI
+# FoothillAPI
 
 ## Sample Data
 | Course | CRN | Title | Status | Days | Time | Start | End |
